@@ -1,4 +1,4 @@
-# Hospitality Data Analysis – Project Description
+# Hospitality Data Analysis 
 
 This project focuses on analyzing hotel booking data to generate meaningful business insights and improve decision-making.
 
